@@ -1,0 +1,324 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Colibecas\\source\\repos\\SolucionRegional\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{863089C8-F5A2-4070-8374-61AA6E77BE6C}|API_RegionalInterna\\API_RegionalInterna.csproj|c:\\users\\colibecas\\source\\repos\\solucionregional\\api_regionalinterna\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863089C8-F5A2-4070-8374-61AA6E77BE6C}|API_RegionalInterna\\API_RegionalInterna.csproj|solutionrelative:api_regionalinterna\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863089C8-F5A2-4070-8374-61AA6E77BE6C}|API_RegionalInterna\\API_RegionalInterna.csproj|c:\\users\\colibecas\\source\\repos\\solucionregional\\api_regionalinterna\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863089C8-F5A2-4070-8374-61AA6E77BE6C}|API_RegionalInterna\\API_RegionalInterna.csproj|solutionrelative:api_regionalinterna\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863089C8-F5A2-4070-8374-61AA6E77BE6C}|API_RegionalInterna\\API_RegionalInterna.csproj|c:\\users\\colibecas\\source\\repos\\solucionregional\\api_regionalinterna\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863089C8-F5A2-4070-8374-61AA6E77BE6C}|API_RegionalInterna\\API_RegionalInterna.csproj|solutionrelative:api_regionalinterna\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863089C8-F5A2-4070-8374-61AA6E77BE6C}|API_RegionalInterna\\API_RegionalInterna.csproj|c:\\users\\colibecas\\source\\repos\\solucionregional\\api_regionalinterna\\data\\regionaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863089C8-F5A2-4070-8374-61AA6E77BE6C}|API_RegionalInterna\\API_RegionalInterna.csproj|solutionrelative:api_regionalinterna\\data\\regionaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863089C8-F5A2-4070-8374-61AA6E77BE6C}|API_RegionalInterna\\API_RegionalInterna.csproj|c:\\users\\colibecas\\source\\repos\\solucionregional\\api_regionalinterna\\models\\detallereporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863089C8-F5A2-4070-8374-61AA6E77BE6C}|API_RegionalInterna\\API_RegionalInterna.csproj|solutionrelative:api_regionalinterna\\models\\detallereporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863089C8-F5A2-4070-8374-61AA6E77BE6C}|API_RegionalInterna\\API_RegionalInterna.csproj|c:\\users\\colibecas\\source\\repos\\solucionregional\\api_regionalinterna\\models\\reportesemanal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863089C8-F5A2-4070-8374-61AA6E77BE6C}|API_RegionalInterna\\API_RegionalInterna.csproj|solutionrelative:api_regionalinterna\\models\\reportesemanal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863089C8-F5A2-4070-8374-61AA6E77BE6C}|API_RegionalInterna\\API_RegionalInterna.csproj|c:\\users\\colibecas\\source\\repos\\solucionregional\\api_regionalinterna\\models\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863089C8-F5A2-4070-8374-61AA6E77BE6C}|API_RegionalInterna\\API_RegionalInterna.csproj|solutionrelative:api_regionalinterna\\models\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863089C8-F5A2-4070-8374-61AA6E77BE6C}|API_RegionalInterna\\API_RegionalInterna.csproj|c:\\users\\colibecas\\source\\repos\\solucionregional\\api_regionalinterna\\models\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863089C8-F5A2-4070-8374-61AA6E77BE6C}|API_RegionalInterna\\API_RegionalInterna.csproj|solutionrelative:api_regionalinterna\\models\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863089C8-F5A2-4070-8374-61AA6E77BE6C}|API_RegionalInterna\\API_RegionalInterna.csproj|c:\\users\\colibecas\\source\\repos\\solucionregional\\api_regionalinterna\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863089C8-F5A2-4070-8374-61AA6E77BE6C}|API_RegionalInterna\\API_RegionalInterna.csproj|solutionrelative:api_regionalinterna\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863089C8-F5A2-4070-8374-61AA6E77BE6C}|API_RegionalInterna\\API_RegionalInterna.csproj|c:\\users\\colibecas\\source\\repos\\solucionregional\\api_regionalinterna\\controllers\\reportessemanalescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863089C8-F5A2-4070-8374-61AA6E77BE6C}|API_RegionalInterna\\API_RegionalInterna.csproj|solutionrelative:api_regionalinterna\\controllers\\reportessemanalescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863089C8-F5A2-4070-8374-61AA6E77BE6C}|API_RegionalInterna\\API_RegionalInterna.csproj|c:\\users\\colibecas\\source\\repos\\solucionregional\\api_regionalinterna\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863089C8-F5A2-4070-8374-61AA6E77BE6C}|API_RegionalInterna\\API_RegionalInterna.csproj|solutionrelative:api_regionalinterna\\controllers\\inventariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863089C8-F5A2-4070-8374-61AA6E77BE6C}|API_RegionalInterna\\API_RegionalInterna.csproj|c:\\users\\colibecas\\source\\repos\\solucionregional\\api_regionalinterna\\controllers\\sucursalescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863089C8-F5A2-4070-8374-61AA6E77BE6C}|API_RegionalInterna\\API_RegionalInterna.csproj|solutionrelative:api_regionalinterna\\controllers\\sucursalescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863089C8-F5A2-4070-8374-61AA6E77BE6C}|API_RegionalInterna\\API_RegionalInterna.csproj|c:\\users\\colibecas\\source\\repos\\solucionregional\\api_regionalinterna\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863089C8-F5A2-4070-8374-61AA6E77BE6C}|API_RegionalInterna\\API_RegionalInterna.csproj|solutionrelative:api_regionalinterna\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863089C8-F5A2-4070-8374-61AA6E77BE6C}|API_RegionalInterna\\API_RegionalInterna.csproj|c:\\users\\colibecas\\source\\repos\\solucionregional\\api_regionalinterna\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863089C8-F5A2-4070-8374-61AA6E77BE6C}|API_RegionalInterna\\API_RegionalInterna.csproj|solutionrelative:api_regionalinterna\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863089C8-F5A2-4070-8374-61AA6E77BE6C}|API_RegionalInterna\\API_RegionalInterna.csproj|c:\\users\\colibecas\\source\\repos\\solucionregional\\api_regionalinterna\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863089C8-F5A2-4070-8374-61AA6E77BE6C}|API_RegionalInterna\\API_RegionalInterna.csproj|solutionrelative:api_regionalinterna\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863089C8-F5A2-4070-8374-61AA6E77BE6C}|API_RegionalInterna\\API_RegionalInterna.csproj|c:\\users\\colibecas\\source\\repos\\solucionregional\\api_regionalinterna\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{863089C8-F5A2-4070-8374-61AA6E77BE6C}|API_RegionalInterna\\API_RegionalInterna.csproj|solutionrelative:api_regionalinterna\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863089C8-F5A2-4070-8374-61AA6E77BE6C}|API_RegionalInterna\\API_RegionalInterna.csproj|c:\\users\\colibecas\\source\\repos\\solucionregional\\api_regionalinterna\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863089C8-F5A2-4070-8374-61AA6E77BE6C}|API_RegionalInterna\\API_RegionalInterna.csproj|solutionrelative:api_regionalinterna\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718289BA-C297-4BA7-88FF-9CB98191524B}|API_Sucursal\\API_Sucursal.csproj|c:\\users\\colibecas\\source\\repos\\solucionregional\\api_sucursal\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{718289BA-C297-4BA7-88FF-9CB98191524B}|API_Sucursal\\API_Sucursal.csproj|solutionrelative:api_sucursal\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetalleReporte.cs",
+              "DocumentMoniker": "C:\\Users\\Colibecas\\source\\repos\\SolucionRegional\\API_RegionalInterna\\Models\\DetalleReporte.cs",
+              "RelativeDocumentMoniker": "API_RegionalInterna\\Models\\DetalleReporte.cs",
+              "ToolTip": "C:\\Users\\Colibecas\\source\\repos\\SolucionRegional\\API_RegionalInterna\\Models\\DetalleReporte.cs",
+              "RelativeToolTip": "API_RegionalInterna\\Models\\DetalleReporte.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T13:47:08.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReporteSemanal.cs",
+              "DocumentMoniker": "C:\\Users\\Colibecas\\source\\repos\\SolucionRegional\\API_RegionalInterna\\Models\\ReporteSemanal.cs",
+              "RelativeDocumentMoniker": "API_RegionalInterna\\Models\\ReporteSemanal.cs",
+              "ToolTip": "C:\\Users\\Colibecas\\source\\repos\\SolucionRegional\\API_RegionalInterna\\Models\\ReporteSemanal.cs",
+              "RelativeToolTip": "API_RegionalInterna\\Models\\ReporteSemanal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T13:46:56.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "C:\\Users\\Colibecas\\source\\repos\\SolucionRegional\\API_RegionalInterna\\Models\\Inventario.cs",
+              "RelativeDocumentMoniker": "API_RegionalInterna\\Models\\Inventario.cs",
+              "ToolTip": "C:\\Users\\Colibecas\\source\\repos\\SolucionRegional\\API_RegionalInterna\\Models\\Inventario.cs",
+              "RelativeToolTip": "API_RegionalInterna\\Models\\Inventario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T13:46:45.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sucursal.cs",
+              "DocumentMoniker": "C:\\Users\\Colibecas\\source\\repos\\SolucionRegional\\API_RegionalInterna\\Models\\Sucursal.cs",
+              "RelativeDocumentMoniker": "API_RegionalInterna\\Models\\Sucursal.cs",
+              "ToolTip": "C:\\Users\\Colibecas\\source\\repos\\SolucionRegional\\API_RegionalInterna\\Models\\Sucursal.cs",
+              "RelativeToolTip": "API_RegionalInterna\\Models\\Sucursal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T13:46:32.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Colibecas\\source\\repos\\SolucionRegional\\API_RegionalInterna\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "API_RegionalInterna\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Colibecas\\source\\repos\\SolucionRegional\\API_RegionalInterna\\Models\\Categoria.cs",
+              "RelativeToolTip": "API_RegionalInterna\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T13:46:19.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Colibecas\\source\\repos\\SolucionRegional\\API_RegionalInterna\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "API_RegionalInterna\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Colibecas\\source\\repos\\SolucionRegional\\API_RegionalInterna\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "API_RegionalInterna\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T13:45:33.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReportesSemanalesController.cs",
+              "DocumentMoniker": "C:\\Users\\Colibecas\\source\\repos\\SolucionRegional\\API_RegionalInterna\\Controllers\\ReportesSemanalesController.cs",
+              "RelativeDocumentMoniker": "API_RegionalInterna\\Controllers\\ReportesSemanalesController.cs",
+              "ToolTip": "C:\\Users\\Colibecas\\source\\repos\\SolucionRegional\\API_RegionalInterna\\Controllers\\ReportesSemanalesController.cs",
+              "RelativeToolTip": "API_RegionalInterna\\Controllers\\ReportesSemanalesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T13:45:19.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InventarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Colibecas\\source\\repos\\SolucionRegional\\API_RegionalInterna\\Controllers\\InventarioController.cs",
+              "RelativeDocumentMoniker": "API_RegionalInterna\\Controllers\\InventarioController.cs",
+              "ToolTip": "C:\\Users\\Colibecas\\source\\repos\\SolucionRegional\\API_RegionalInterna\\Controllers\\InventarioController.cs",
+              "RelativeToolTip": "API_RegionalInterna\\Controllers\\InventarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T13:45:07.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SucursalesController.cs",
+              "DocumentMoniker": "C:\\Users\\Colibecas\\source\\repos\\SolucionRegional\\API_RegionalInterna\\Controllers\\SucursalesController.cs",
+              "RelativeDocumentMoniker": "API_RegionalInterna\\Controllers\\SucursalesController.cs",
+              "ToolTip": "C:\\Users\\Colibecas\\source\\repos\\SolucionRegional\\API_RegionalInterna\\Controllers\\SucursalesController.cs",
+              "RelativeToolTip": "API_RegionalInterna\\Controllers\\SucursalesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T13:44:54.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\Colibecas\\source\\repos\\SolucionRegional\\API_RegionalInterna\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "API_RegionalInterna\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\Colibecas\\source\\repos\\SolucionRegional\\API_RegionalInterna\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "API_RegionalInterna\\Controllers\\CategoriasController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T13:44:38.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Colibecas\\source\\repos\\SolucionRegional\\API_RegionalInterna\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "API_RegionalInterna\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Colibecas\\source\\repos\\SolucionRegional\\API_RegionalInterna\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "API_RegionalInterna\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T13:40:43.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Colibecas\\source\\repos\\SolucionRegional\\API_RegionalInterna\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "API_RegionalInterna\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Colibecas\\source\\repos\\SolucionRegional\\API_RegionalInterna\\WeatherForecast.cs",
+              "RelativeToolTip": "API_RegionalInterna\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T13:40:27.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Colibecas\\source\\repos\\SolucionRegional\\API_Sucursal\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API_Sucursal\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Colibecas\\source\\repos\\SolucionRegional\\API_Sucursal\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API_Sucursal\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-06T13:23:36.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\Colibecas\\source\\repos\\SolucionRegional\\API_RegionalInterna\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "API_RegionalInterna\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\Colibecas\\source\\repos\\SolucionRegional\\API_RegionalInterna\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "API_RegionalInterna\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T03:07:01.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Colibecas\\source\\repos\\SolucionRegional\\API_RegionalInterna\\Program.cs",
+              "RelativeDocumentMoniker": "API_RegionalInterna\\Program.cs",
+              "ToolTip": "C:\\Users\\Colibecas\\source\\repos\\SolucionRegional\\API_RegionalInterna\\Program.cs",
+              "RelativeToolTip": "API_RegionalInterna\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T03:05:28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Colibecas\\source\\repos\\SolucionRegional\\API_RegionalInterna\\appsettings.json",
+              "RelativeDocumentMoniker": "API_RegionalInterna\\appsettings.json",
+              "ToolTip": "C:\\Users\\Colibecas\\source\\repos\\SolucionRegional\\API_RegionalInterna\\appsettings.json",
+              "RelativeToolTip": "API_RegionalInterna\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-05T03:04:56.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegionalDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Colibecas\\source\\repos\\SolucionRegional\\API_RegionalInterna\\Data\\RegionalDbContext.cs",
+              "RelativeDocumentMoniker": "API_RegionalInterna\\Data\\RegionalDbContext.cs",
+              "ToolTip": "C:\\Users\\Colibecas\\source\\repos\\SolucionRegional\\API_RegionalInterna\\Data\\RegionalDbContext.cs",
+              "RelativeToolTip": "API_RegionalInterna\\Data\\RegionalDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T03:04:26.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Colibecas\\source\\repos\\SolucionRegional\\API_RegionalInterna\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "API_RegionalInterna\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Colibecas\\source\\repos\\SolucionRegional\\API_RegionalInterna\\Models\\Producto.cs",
+              "RelativeToolTip": "API_RegionalInterna\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T03:03:54.443Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
