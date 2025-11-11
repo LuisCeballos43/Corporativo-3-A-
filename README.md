@@ -3,6 +3,8 @@ Aquí podrán encontrar toda la información necesaria tanto para sucursales, re
 
 # Estructura de la abse de datos:
 Corporativo:
+https://github.com/LuisCeballos43/Corporativo-3-A-/blob/main/ESTRUCTURA%20DE%20LA%20BD/DocumentacionBD-Corporativo.pdf
+[corporativo] (DocumentacionBD-Corporativo)
 https://drawsql.app/teams/a-1911/diagrams/corporativo
 
 Regionales:
