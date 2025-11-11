@@ -10,12 +10,14 @@ https://github.com/LuisCeballos43/Corporativo-3-A-/blob/main/ESTRUCTURA%20DE%20L
 https://drawsql.app/teams/a-1911/diagrams/corporativo
 
 ### Regionales:
+Estructura de la base de datos:
 https://github.com/LuisCeballos43/Corporativo-3-A-/blob/main/ESTRUCTURA%20DE%20LA%20BD/DocumentacionBD-Regional.pdf
 
 ### Diagrama ilustrativo
 https://drawsql.app/teams/a-1911/diagrams/regional
 
 ### Sucursales:
+Estructura de la base de datos:
 https://github.com/LuisCeballos43/Corporativo-3-A-/blob/main/ESTRUCTURA%20DE%20LA%20BD/DocumentacionBD-Sucursal.pdf
 
 ### Diagrama ilustrativo
