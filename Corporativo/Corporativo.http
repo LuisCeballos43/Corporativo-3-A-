@@ -1,0 +1,6 @@
+@Corporativo_HostAddress = http://localhost:3000
+
+GET {{Corporativo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
