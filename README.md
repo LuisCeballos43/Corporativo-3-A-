@@ -11,7 +11,7 @@ https://github.com/LuisCeballos43/Corporativo-3-A-/blob/main/ESTRUCTURA%20DE%20L
 https://drawsql.app/teams/a-1911/diagrams/corporativo
 
 ###  API de corporativo:
-https://github.com/LuisCeballos43/Corporativo-3-A-/blob/main/CONTRATOS%20API%20Y%20BD/Contrato%20API%20CORPORATIVO%20y%20BD.pdf
+https://negocio.up.railway.app/
 
 ## REGIONALES
 ### Estructura de la base de datos:
@@ -21,7 +21,7 @@ https://github.com/LuisCeballos43/Corporativo-3-A-/blob/main/ESTRUCTURA%20DE%20L
 https://drawsql.app/teams/a-1911/diagrams/regional
 
 ###  API de regionales:
-https://github.com/LuisCeballos43/Corporativo-3-A-/blob/main/CONTRATOS%20API%20Y%20BD/Contrato%20API%20REGIONES%20y%20BD.pdf
+
 
 ## SUCURSALES
 ### Estructura de la base de datos:
@@ -31,4 +31,3 @@ https://github.com/LuisCeballos43/Corporativo-3-A-/blob/main/ESTRUCTURA%20DE%20L
 https://drawsql.app/teams/a-1911/diagrams/sucursal
 
 ###  API de sucursales:
-https://github.com/LuisCeballos43/Corporativo-3-A-/blob/main/CONTRATOS%20API%20Y%20BD/contrato%20API%20SUCURSAL%20y%20BD.pdf
