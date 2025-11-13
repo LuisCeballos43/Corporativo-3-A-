@@ -14,7 +14,7 @@ https://drawsql.app/teams/a-1911/diagrams/corporativo
 https://negocio.up.railway.app/ (solo sirve al usarla con las rutas)
 
 ## REGIONALES
-### Estructura de la base de datos (REVISAR HASTA ABAJO):
+### Estructura de la base de datos:
 https://github.com/LuisCeballos43/Corporativo-3-A-/blob/main/ESTRUCTURA%20DE%20LA%20BD/DocumentacionBD-Regional.pdf
 
 ### Diagrama ilustrativo:
@@ -24,7 +24,7 @@ https://drawsql.app/teams/a-1911/diagrams/regional
 
 
 ## SUCURSALES
-### Estructura de la base de datos:
+### Estructura de la base de datos (REVISAR HASTA ABAJO):
 https://github.com/LuisCeballos43/Corporativo-3-A-/blob/main/ESTRUCTURA%20DE%20LA%20BD/DocumentacionBD-Sucursal%20CON%20CODIGO.pdf
 
 ### Diagrama ilustrativo:
