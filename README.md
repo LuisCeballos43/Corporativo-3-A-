@@ -11,7 +11,7 @@ https://github.com/LuisCeballos43/Corporativo-3-A-/blob/main/ESTRUCTURA%20DE%20L
 https://drawsql.app/teams/a-1911/diagrams/corporativo
 
 ###  API de corporativo:
-https://negocio.up.railway.app/
+https://negocio.up.railway.app/ (solo sirve al usarla con las rutas)
 
 ## REGIONALES
 ### Estructura de la base de datos:
