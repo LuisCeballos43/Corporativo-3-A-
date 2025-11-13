@@ -15,7 +15,7 @@ https://negocio.up.railway.app/ (solo sirve al usarla con las rutas)
 
 ## REGIONALES
 ### Estructura de la base de datos (REVISAR HASTA ABAJO):
-
+ESTRUCTURA DE LA BD/DocumentacionBD-Sucursal CON CODIGO.pdf
 
 ### Diagrama ilustrativo:
 https://drawsql.app/teams/a-1911/diagrams/regional
