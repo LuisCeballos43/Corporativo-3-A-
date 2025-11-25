@@ -1,6 +1,10 @@
 # CORPORATIVO 3-A
 Aquí podrán encontrar toda la información necesaria tanto para sucursales, regionales y corporativo, por lo que este repositorio fungirá como un concentrado de todos los avances que se realicen en clase
 
+# CSS PERSONALIZADO:
+### tutorial:
+https://github.com/LuisCeballos43/Corporativo-3-A-/blob/main/CSS%20A%20IMPLEMENTAR/TUTORIAL%20DE%20INSTALACION%20DE%20CSS%20Y%20DEMAS.pdf
+
 # Las Bases De Datos:
 
 ## CORPORATIVO
