@@ -1,0 +1,39 @@
+# CORPORATIVO 3-A
+Aquí podrán encontrar toda la información necesaria tanto para sucursales, regionales y corporativo, por lo que este repositorio fungirá como un concentrado de todos los avances que se realicen en clase
+
+# CSS PERSONALIZADO:
+
+## tutorial:
+https://github.com/LuisCeballos43/Corporativo-3-A-/blob/main/CSS%20A%20IMPLEMENTAR/TUTORIAL%20DE%20INSTALACION%20DE%20CSS%20Y%20DEMAS.pdf
+### (recuerden descargar y descomprimir los archivos que se encuentran en la misma carpeta)
+
+# Las Bases De Datos:
+
+## CORPORATIVO
+### Estructura de la base de datos:
+https://github.com/LuisCeballos43/Corporativo-3-A-/blob/main/ESTRUCTURA%20DE%20LA%20BD/DocumentacionBD-Corporativo.pdf
+
+### Diagrama ilustrativo:
+https://drawsql.app/teams/a-1911/diagrams/corporativo
+
+###  API de corporativo:
+https://negocio.up.railway.app/ (solo sirve al usarla con las rutas)
+
+## REGIONALES
+### Estructura de la base de datos:
+https://github.com/LuisCeballos43/Corporativo-3-A-/blob/main/ESTRUCTURA%20DE%20LA%20BD/DocumentacionBD-Regional.pdf
+
+### Diagrama ilustrativo:
+https://drawsql.app/teams/a-1911/diagrams/regional
+
+###  API de regionales:
+
+
+## SUCURSALES
+### Estructura de la base de datos (REVISAR HASTA ABAJO):
+https://github.com/LuisCeballos43/Corporativo-3-A-/blob/main/ESTRUCTURA%20DE%20LA%20BD/DocumentacionBD-Sucursal%20CON%20CODIGO.pdf
+
+### Diagrama ilustrativo:
+https://drawsql.app/teams/a-1911/diagrams/sucursal
+
+###  API de sucursales:
