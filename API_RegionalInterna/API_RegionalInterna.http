@@ -1,0 +1,6 @@
+@API_RegionalInterna_HostAddress = http://localhost:5134
+
+GET {{API_RegionalInterna_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

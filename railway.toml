@@ -1,0 +1,6 @@
+[build]
+builder = "NIXPACKS"
+buildCommand = "dotnet publish API_RegionalInterna/API_RegionalInterna.csproj -c Release -o out"
+
+[deploy]
+startCommand = "dotnet out/API_RegionalInterna.dll"
