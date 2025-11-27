@@ -1,0 +1,6 @@
+@RegionalDataBases_HostAddress = http://localhost:5137
+
+GET {{RegionalDataBases_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
