@@ -1,6 +1,9 @@
 # CORPORATIVO 3-A
 Aquí podrán encontrar toda la información necesaria tanto para sucursales, regionales y corporativo, por lo que este repositorio fungirá como un concentrado de todos los avances que se realicen en clase
 
+# REPORTE:
+https://github.com/LuisCeballos43/Corporativo-3-A-/blob/main/REPORTE%20GENERAL%20DE%20LA%20CREACION%20Y%20ORGANIZACION%20DE%20TODO%20EL%20CORPORATIVO.pdf
+
 # CSS PERSONALIZADO:
 
 ## tutorial:
@@ -27,7 +30,6 @@ https://github.com/LuisCeballos43/Corporativo-3-A-/blob/main/ESTRUCTURA%20DE%20L
 https://drawsql.app/teams/a-1911/diagrams/regional
 
 ###  API de regionales:
-
 
 ## SUCURSALES
 ### Estructura de la base de datos (REVISAR HASTA ABAJO):
